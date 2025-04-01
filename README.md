@@ -1,3 +1,4 @@
+
 # Olá!👋🏽Eu sou Fabiana Santos.
 -🖥️Estou iniciando minha carreira dev,estudando ADS
 -💡Conhecendo linguagens novas
@@ -73,3 +74,19 @@ Para executar o projeto, siga os seguintes passos:
 4. Execute o comando npm start para iniciar o servidor
 5. Acesse o sistema através do navegador, utilizando a URL http://localhost:3000
 </p>
+
+# Prints das telas 
+![IMG-1](https://github.com/user-attachments/assets/edcbed53-0928-4693-a82e-d34aa8aeda1e)
+![IMG-2](https://github.com/user-attachments/assets/1fabbd2a-7a19-4663-abb1-430b27269538)
+![IMG-3](https://github.com/user-attachments/assets/54b84331-39ab-46dc-8e8a-62d6e2fe0892)
+![IMG-4](https://github.com/user-attachments/assets/d260a5f8-a959-4411-9617-9ef49646f0c6)
+![IMG-5](https://github.com/user-attachments/assets/314acd3a-5151-4d8f-9039-64bee71abb7f)
+![IMG6](https://github.com/user-attachments/assets/e6470f57-f360-4f36-a42a-cf91bb4f20d4)
+
+# Vídeo do sistema em execução
+<h2> Link do vídeo </h2>
+https://drive.google.com/file/d/1erqljcuHzjbYeicry-84Ufsv_GWl_Ltx
+
+https://github.com/user-attachments/assets/1c35a65e-003e-4ccb-9ab9-826698c6d4e3
+
+
